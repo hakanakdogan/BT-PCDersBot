@@ -10,7 +10,7 @@ const data = JSON.parse(rawData);
 
 
 
-console.log(process.env.TOKEN);
+
 
 const token = process.env.TOKEN;
 
