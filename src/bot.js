@@ -24,7 +24,7 @@ bot.onText(/\/start/ , (msg,match)=>{
 bot.onText(/\/yardim/ , (msg,match)=>{
     const chatId = msg.chat.id;
 
-    bot.sendMessage(chatId , `Bulmak istediğiniz derse 3 farklı şekilde ulaşabilirsiniz:\n1: "/ders" kodunu yazdıktan sonra bir boşluk bırakıp ders adını yazarak.\n2:"/kod" kodunu yazdıktan sonra bir boşluk bırakıp ders kodunu yazarak.\n3:"/ogretmen" kodunu yazdıktan sonra bir boşluk bırakıp ders öğretmeninin adını yazarak`);
+    bot.sendMessage(chatId , `Bulmak istediğiniz derse 3 farklı şekilde ulaşabilirsiniz:\n1: "/ders" kodunu yazdıktan sonra bir boşluk bırakıp ders adını yazarak.\n2:"/kod" kodunu yazdıktan sonra bir boşluk bırakıp ders kodunu yazarak.\n3:"/ogretmen" kodunu yazdıktan sonra bir boşluk bırakıp ders öğretmeninin adını yazarak\nDersin veya Öğretim görevlisinin tam adını bilmiyosanız bile hatırladığınız bir kelimeyi yazarsanız uyan tüm sonuçlar görüntülenir.`);
 })
 
 
