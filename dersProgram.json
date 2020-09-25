@@ -1,0 +1,276 @@
+[
+    {
+        "kod":"MAT0101",
+        "ders":" Matematik I T C1",
+        "gun":"Salı",
+        "saat":"8.00-8.45 / 9.00-9.45",
+        "ogretmen":"Nihal ÖZDOĞAN"
+    },
+    {
+        "kod":"MAT0101",
+        "ders":" Matematik I T C2",
+        "gun":"Salı",
+        "saat":"8.00-8.45 / 9.00-9.45",
+        "ogretmen":"Ayşe BORAT"
+    },
+    {
+        "kod":"BLM111",
+        "ders":"Algoritma ve Programlama T",
+        "gun":"Salı",
+        "saat":"10.00-10.45 / 11.00-11.45 / 13.00-13.45",
+        "ogretmen":"Dr.Öğr. Üyesi Ergün GÜMÜŞ"
+    },
+    {
+        "kod":"FZK0101",
+        "ders":"Fizik I T C5",
+        "gun":"Salı",
+        "saat":"14.00-14.45 / 15.00-.15.45 / 16.00-16.45",
+        "ogretmen":"Emrah SARICA"
+    },
+    {
+        "kod":"FZK0101",
+        "ders":"Fizik I L C1",
+        "gun":"Salı",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Murat TÜREMİŞ"
+    },
+    {
+        "kod":"MAT0103",
+        "ders":"Lineer Cebir T",
+        "gun":"Çarşamba",
+        "saat":"08.00-08.45 / 09.00-09.45 / 10.00-10.45",
+        "ogretmen":"Nil ORHAN ERTAŞ"
+    },
+    {
+        "kod":"BLM111",
+        "ders":"Algoritma ve Programlama L",
+        "gun":"Çarşamba",
+        "saat":"11.00-11.45 / 13.00-13.45",
+        "ogretmen":"Dr.Öğr. Üyesi Ergün GÜMÜŞ"
+    },
+    {
+        "kod":"MAT0101",
+        "ders":"Matematik I T C1",
+        "gun":"Çarşamba",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Nihal ÖZDOĞAN"
+    },
+    {
+        "kod":"MAT0101",
+        "ders":"Matematik I T C2",
+        "gun":"Çarşamba",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Ayşe BORAT"
+    },
+    {
+        "kod":"FZK0101",
+        "ders":"Fizik I T C1",
+        "gun":"Perşembe",
+        "saat":"08.00-08.45 / 09.00-09.45 / 10-10.45",
+        "ogretmen":"Murat TÜREMİŞ"
+    },
+    {
+        "kod":"FZK0101",
+        "ders":"Fizik I L C5",
+        "gun":"Perşembe",
+        "saat":"10.00-10.45 / 11.00-11.45",
+        "ogretmen":"Emrah SARICA"
+    },
+    {
+        "kod":"BLM101",
+        "ders":"Bilgisayar Mühendisliğine Giriş T",
+        "gun":"Cuma",
+        "saat":"14.00-14.45 / 15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Prof. Dr. Turgay Tugay BİLGİN"
+    },
+
+
+
+    {
+        "kod":"MAT0291",
+        "ders":"Diferansiyel Denklemler T",
+        "gun":"Pazartesi",
+        "saat":"08.00-08.45 / 09.00-09.45",
+        "ogretmen":"Burhan ALVEROĞLU"
+    },
+    {
+        "kod":"BLM212",
+        "ders":"Veri Yapıları L",
+        "gun":"Pazartesi",
+        "saat":"13.00-13.45 / 14.00-14.45",
+        "ogretmen":"Dr.Öğr. Üyesi Erdem YAVUZ"
+    },
+    {
+        "kod":"MKT0211",
+        "ders":"Elektronik I L",
+        "gun":"Pazartesi",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Doç.Dr. Haydar ÖZKAN"
+    },
+    {
+        "kod":"MKT0211",
+        "ders":"Elektronik I T",
+        "gun":"Salı",
+        "saat":"08.00-08.45 / 09.00-09.45",
+        "ogretmen":"Doç.Dr. Haydar ÖZKAN"
+    },
+    {
+        "kod":"BLM211",
+        "ders":"Ayrık Yapılar T",
+        "gun":"Salı",
+        "saat":"11.00-11.45 / 13.00-13.45 / 14.00-14.45",
+        "ogretmen":"Dr.Öğr. Üyesi Mustafa Özgür CİNGİZ"
+    },
+    {
+        "kod":"MKT0213",
+        "ders":"Mantık Devreleri T",
+        "gun":"Çarşamba",
+        "saat":"11.00-11.45 / 13.00-13.45 / 14.00-14.45",
+        "ogretmen":"Doç. Dr. Haydar ÖZKAN"
+    },
+    {
+        "kod":"MKT0213",
+        "ders":"Mantık Devreleri L",
+        "gun":"Çarşamba",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Doç. Dr. Haydar ÖZKAN"
+    },
+    {
+        "kod":"MAT0291",
+        "ders":"Diferansiyel Denklemler T",
+        "gun":"Cuma",
+        "saat":"08.00-08.45 / 09.00-09.45",
+        "ogretmen":"Burhan ALVEROĞLU"
+    },
+    {
+        "kod":"BLM212",
+        "ders":"Veri Yapıları T",
+        "gun":"Cuma",
+        "saat":"14.00-14.45 / 15.00-15.45 / 16.00-16.45 ",
+        "ogretmen":"Dr.Öğr. Üyesi Erdem YAVUZ"
+    },
+
+
+
+    {
+        "kod":"BLM0364",
+        "ders":"Oyun Programlama T",
+        "gun":"Pazartesi",
+        "saat":"08.00-08.45 / 09.00-09.45",
+        "ogretmen":"Öğr. Üyesi İzzet Fatih ŞENTÜRK"
+    },
+    {
+        "kod":"BLM0364",
+        "ders":"Oyun Programlama L",
+        "gun":"Pazartesi",
+        "saat":"10.00-10.45 / 11.00-11.45",
+        "ogretmen":"Öğr. Üyesi İzzet Fatih ŞENTÜRK"
+    },
+    {
+        "kod":"BLM0461",
+        "ders":"Paralel Programlama T",
+        "gun":"Pazartesi",
+        "saat":"13.00-13.45 / 14.00-14.45",
+        "ogretmen":"Dr.Öğr. Üyesi Hayri Volkan AGUN"
+    },
+    {
+        "kod":"BLM0461",
+        "ders":"Paralel Programlama L",
+        "gun":"Pazartesi",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Dr.Öğr. Üyesi Hayri Volkan AGUN"
+    },
+    {
+        "kod":"BLM0463",
+        "ders":"Veri Madenciliğine Giriş T",
+        "gun":"Salı",
+        "saat":"08.00-08.45 / 09.00-09.45",
+        "ogretmen":"Dr.Öğr. Üyesi Erdem YAVUZ"
+    },
+    {
+        "kod":"BLM314",
+        "ders":"Algoritma Analizi ve Tasarımı T",
+        "gun":"Salı",
+        "saat":"10.00-10.45 / 11.00-11.45 / 13.00-13.45",
+        "ogretmen":"Dr.Öğr. Üyesi Seçkin YILMAZ"
+    },
+    {
+        "kod":"BLM0357",
+        "ders":"Görsel Programlama T",
+        "gun":"Salı",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Dr.Öğr. Üyesi Seçkin YILMAZ"
+    },
+    {
+        "kod":"BLM314",
+        "ders":"Algoritma Analizi ve Tasarımı T L",
+        "gun":"Çarşamba",
+        "saat":"09.00-09.45 / 10.00-10.45",
+        "ogretmen":"Dr.Öğr. Üyesi Seçkin YILMAZ"
+    },
+    {
+        "kod":"BLM310",
+        "ders":"Biçimsel Diller ve Otomata Teorisi T ",
+        "gun":"Çarşamba",
+        "saat":"11.00-11.45 / 13.00-13.45 / 14.00-14.45",
+        "ogretmen":"Dr.Öğr. Üyesi Seçkin YILMAZ"
+    },
+    {
+        "kod":"BLM0463",
+        "ders":"Veri Madenciliğine Giriş L ",
+        "gun":"Çarşamba",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Dr.Öğr. Üyesi Erdem YAVUZ"
+    },
+    {
+        "kod":"BLM0357",
+        "ders":"Görsel Programlama L ",
+        "gun":"Perşembe",
+        "saat":"08.00-08.45 / 09.00-09.45",
+        "ogretmen":"Dr.Öğr. Üyesi Seçkin YILMAZ"
+    },
+    {
+        "kod":"BLM312",
+        "ders":"Mikroişlemciler T",
+        "gun":"Perşembe",
+        "saat":"11.00-11.45 / 13.00-13.45 / 14.00-14.45",
+        "ogretmen":"Dr.Öğr. Üyesi Erdem YAVUZ"
+    },
+    {
+        "kod":"BLM312",
+        "ders":"Mikroişlemciler L",
+        "gun":"Perşembe",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Dr.Öğr. Üyesi Erdem YILMAZ"
+    },
+    {
+        "kod":"BLM0365",
+        "ders":"Linux Araçları ve Kabuk Programlama T",
+        "gun":"Cuma",
+        "saat":"08.00-08.45 / 09.00-09.45",
+        "ogretmen":"Prof. Dr. Turgay Tugay BİLGİN"
+    },
+    {
+        "kod":"BLM0365",
+        "ders":"Linux Araçları ve Kabuk Programlama L",
+        "gun":"Cuma",
+        "saat":"10.00-10.45 / 11.00-11.45",
+        "ogretmen":"Prof. Dr. Turgay Tugay BİLGİN"
+    },
+    {
+        "kod":"BLM0351",
+        "ders":"Python Programlama T",
+        "gun":"Cuma",
+        "saat":"13.00-13.45 / 14.00-14.45",
+        "ogretmen":"Dr. Öğr. Üyesi Mustafa Özgür CİNGİZ"
+    },
+    {
+        "kod":"BLM0351",
+        "ders":"Python Programlama L",
+        "gun":"Cuma",
+        "saat":"15.00-15.45 / 16.00-16.45",
+        "ogretmen":"Dr. Öğr. Üyesi Mustafa Özgür CİNGİZ"
+    }
+    
+    
+]
