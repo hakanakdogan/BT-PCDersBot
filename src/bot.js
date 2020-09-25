@@ -12,7 +12,7 @@ const data = JSON.parse(rawData);
 
 
 
-const token = "1316241368:AAFx9luuzLiNLvXPBVh_VzqQ9oo8MtaUaOM";
+const token = process.env.TELEGRAM_TOKEN;
 
 const bot = new TelegramBot(token , {polling:true});
 
