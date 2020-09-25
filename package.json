@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "src/bot.js",
+    "start": "node src/bot.js",
     "dev": "env-cmd -f config/dev.env nodemon src/bot.js"
   },
   "keywords": [],
